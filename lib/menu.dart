@@ -18,12 +18,14 @@ class MyHomePage extends StatelessWidget  {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  @override
+    @override
     Widget build(BuildContext context) {
       return Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.indigo,
           title: const Text(
             'Shopping List',
+            style: TextStyle(color: Colors.white),
           ),
         ),
         body: SingleChildScrollView(
