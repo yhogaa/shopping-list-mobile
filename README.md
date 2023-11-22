@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/439c29e5-3250-4cce-bed4-5dd9d7293266/branches/master/badge)](https://appcenter.ms)
+
+[Public Link](https://install.appcenter.ms/orgs/pbp-a-shoppinglist/apps/shopping-list/distribution_groups/public)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
